@@ -68,7 +68,7 @@ class FaceBoom(object):
         return False
 
 
-    def get_profile_id(self, target_profile):
+    def get_profile_id(self, target_profile):https://www.facebook.com/Kacababednarovai
         try:
             print(gr+"\n["+wi+"*"+gr+"] geting target Profile Id... please wait"+wi)
             idre = re.compile('(?<="userID":").*?(?=")')
